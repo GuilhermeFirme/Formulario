@@ -1,0 +1,29 @@
+form
+{
+    width: 940px;
+    height: 470px;
+    background-color: aqua;
+    border: 1px solid #000;
+    text-align: center;
+    margin: 100px;
+}
+label
+{
+    color: black;
+
+}
+input[type=submit]
+{
+    margin-right: 0px;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+select
+{
+    margin-left: 5px;
+}
+form label
+{
+    display: block;
+}
